@@ -1,1 +1,1 @@
-descriçaõ da sprint
+descrição da sprint
