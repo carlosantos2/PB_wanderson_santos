@@ -11,7 +11,8 @@ O desafio consistia em gerar relatórios com informações detalhadas sobre as v
 - `processamento_de_vendas.sh`: Script principal para processamento, backup e geração de relatórios.
 - `consolidador_de_processamento_de_vendas.sh`: Script para consolidar relatórios gerados. 
 
-Veja abaixo um print com todos os diretórios e scripts criados.
+Veja abaixo um print com todos os diretórios e scripts criados:
+
 ![visão geral](../evidencias/tree_1.png)
 
 
