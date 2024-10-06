@@ -1,0 +1,16 @@
+Data e hora do sistema: 2024/10/04 15:27
+Data do primeiro registro: 02/05/2023  
+Data do último registro: 07/02/2023
+Quantidade total de itens diferentes vendidos: 38
+
+Primeiras 10 linhas do arquivo:
+id,produto,quantidade,preço,data  
+1,Base líquida,10,35.00,02/05/2023  
+2,Pó compacto,15,25.50,02/01/2023  
+3,Corretivo,8,18.00,03/05/2023  
+4,Blush,12,22.00,04/01/2023  
+5,Iluminador,6,30.00,05/01/2023  
+6,Batom matte,30,15.00,06/01/2023  
+7,Gloss labial,5,12.00,07/05/2023  
+8,Paleta de sombras,7,50.00,08/01/2023  
+9,Delineador líquido,25,20.00,09/01/2023  

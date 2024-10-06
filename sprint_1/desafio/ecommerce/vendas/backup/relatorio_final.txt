@@ -1,0 +1,82 @@
+Relatório: /home/carlossantos/ecommerce/vendas/backup/relatorio-20241001.txt
+Data e hora do sistema: 2024/10/01 15:27
+Data do primeiro registro: 01/01/2023
+Data do último registro: 31/01/2023
+Quantidade total de itens diferentes vendidos: 66
+
+Primeiras 10 linhas do arquivo:
+id,produto,quantidade,preço,data
+1,camiseta,2,29.90,01/01/2023
+2,calça,5,80.00,02/01/2023
+3,sapato,3,100.00,03/01/2023
+4,meia,20,5.00,04/01/2023
+5,cinto,8,15.00,05/01/2023
+6,camisa,7,40.00,06/01/2023
+7,bermuda,6,50.00,07/01/2023
+8,tênis,4,120.00,08/01/2023
+9,bone,12,10.00,09/01/2023
+10,casaco,2,150.00,10/01/2023
+
+------------------------
+
+Relatório: /home/carlossantos/ecommerce/vendas/backup/relatorio-20241002.txt
+Data e hora do sistema: 2024/10/02 15:27
+Data do primeiro registro: 02/01/2023
+Data do último registro: 14/02/2023
+Quantidade total de itens diferentes vendidos: 45
+
+Primeiras 10 linhas do arquivo:
+id,produto,quantidade,preço,data
+1,notebook dell,5,3500.00,02/01/2023
+2,smartphone samsung,8,1200.00,02/01/2023
+3,tablet apple,3,2500.00,03/01/2023
+4,smartwatch xiaomi,10,300.00,04/01/2023
+5,fone bluetooth,15,150.00,05/01/2023
+6,teclado mecânico,7,450.00,06/01/2023
+7,mouse gamer,12,250.00,07/01/2023
+8,monitor LED 24'',4,800.00,08/01/2023
+9,caixa de som bluetooth,20,120.00,09/01/2023
+10,headset gamer,6,200.00,10/01/2023
+
+------------------------
+
+Relatório: /home/carlossantos/ecommerce/vendas/backup/relatorio-20241003.txt
+Data e hora do sistema: 2024/10/03 15:27
+Data do primeiro registro: 02/05/2023  
+Data do último registro: 31/01/2023
+Quantidade total de itens diferentes vendidos: 31
+
+Primeiras 10 linhas do arquivo:
+id,produto,quantidade,preço,data
+1,sabão em pó,10,25.00,02/05/2023  
+2,detergente líquido,15,3.50,02/01/2023  
+3,água sanitária,8,4.00,03/05/2023  
+4,desinfetante,12,7.00,04/01/2023  
+5,limpa vidros,6,9.00,05/01/2023  
+6,esponja de cozinha,30,1.50,06/01/2023  
+7,amaciante,5,10.00,07/05/2023  
+8,limpa piso,7,12.00,08/01/2023  
+9,sabão em barra,25,2.00,09/01/2023  
+
+------------------------
+
+Relatório: /home/carlossantos/ecommerce/vendas/backup/relatorio-20241004.txt
+Data e hora do sistema: 2024/10/04 15:27
+Data do primeiro registro: 02/05/2023  
+Data do último registro: 07/02/2023
+Quantidade total de itens diferentes vendidos: 38
+
+Primeiras 10 linhas do arquivo:
+id,produto,quantidade,preço,data  
+1,Base líquida,10,35.00,02/05/2023  
+2,Pó compacto,15,25.50,02/01/2023  
+3,Corretivo,8,18.00,03/05/2023  
+4,Blush,12,22.00,04/01/2023  
+5,Iluminador,6,30.00,05/01/2023  
+6,Batom matte,30,15.00,06/01/2023  
+7,Gloss labial,5,12.00,07/05/2023  
+8,Paleta de sombras,7,50.00,08/01/2023  
+9,Delineador líquido,25,20.00,09/01/2023  
+
+------------------------
+

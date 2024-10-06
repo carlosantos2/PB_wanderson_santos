@@ -1,0 +1,39 @@
+id,produto,quantidade,preço,data  
+1,Base líquida,10,35.00,02/05/2023  
+2,Pó compacto,15,25.50,02/01/2023  
+3,Corretivo,8,18.00,03/05/2023  
+4,Blush,12,22.00,04/01/2023  
+5,Iluminador,6,30.00,05/01/2023  
+6,Batom matte,30,15.00,06/01/2023  
+7,Gloss labial,5,12.00,07/05/2023  
+8,Paleta de sombras,7,50.00,08/01/2023  
+9,Delineador líquido,25,20.00,09/01/2023  
+10,Lápis de olho,20,10.00,10/01/2023  
+11,Máscara de cílios,10,25.00,11/01/2023  
+12,Spray fixador de maquiagem,8,40.00,12/01/2023  
+13,Primer facial,14,28.00,13/01/2023  
+14,Bronzer,4,35.00,14/01/2023  
+15,Contorno facial,20,30.00,15/01/2023  
+16,Paleta de iluminadores,10,55.00,16/01/2023  
+17,Sombras unitárias,6,15.00,17/01/2023  
+18,Pincel para base,8,25.00,18/01/2023  
+19,Pincel para sombra,10,15.00,19/01/2023  
+20,Pincel para blush,12,20.00,20/01/2023  
+21,Esponja de maquiagem,5,10.00,21/01/2023  
+22,Cílios postiços,10,8.00,22/01/2023  
+23,Cola para cílios,3,12.00,23/01/2023  
+24,Curvador de cílios,4,15.00,24/01/2023  
+25,Removedor de maquiagem,6,18.00,25/01/2023  
+26,Água micelar,12,30.00,26/01/2023  
+27,Hidratante facial,15,40.00,27/01/2023  
+28,Protetor solar facial,15,50.00,28/01/2023  
+29,Óleo demaquilante,20,35.00,29/01/2023  
+30,Espelho de maquiagem,10,60.00,30/01/2023  
+31,Organizador de maquiagem,30,45.00,31/01/2023  
+32,Lápis de sobrancelha,15,18.00,01/02/2023  
+33,Gel para sobrancelha,10,20.00,02/02/2023  
+34,Paleta de contornos,5,70.00,03/02/2023  
+35,Tônico facial,8,25.00,04/02/2023  
+36,Água termal,7,55.00,05/02/2023  
+37,Fixador de sobrancelha,6,22.00,06/02/2023  
+38,Sérum facial,12,65.00,07/02/2023

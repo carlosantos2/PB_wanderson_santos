@@ -1,0 +1,32 @@
+id,produto,quantidade,preço,data  
+1,sabão em pó,10,25.00,02/01/2023  
+2,detergente líquido,15,3.50,02/01/2023  
+3,água sanitária,8,4.00,03/01/2023  
+4,desinfetante,12,7.00,04/01/2023  
+5,limpa vidros,6,9.00,05/01/2023  
+6,esponja de cozinha,30,1.50,06/01/2023  
+7,amaciante,5,10.00,07/01/2023  
+8,limpa piso,7,12.00,08/01/2023  
+9,sabão em barra,25,2.00,09/01/2023  
+10,álcool 70%,20,5.00,10/01/2023  
+11,gel sanitário,10,6.00,11/01/2023  
+12,desengordurante,8,8.50,12/01/2023  
+13,multiuso,14,5.00,13/01/2023  
+14,limpa forno,4,15.00,14/01/2023  
+15,panos de limpeza,20,2.50,15/01/2023  
+16,desinfetante de lavanda,10,8.00,16/01/2023  
+17,limpa tapetes,6,18.00,17/01/2023  
+18,detergente neutro,8,3.00,18/01/2023  
+19,limpa alumínio,10,7.50,19/01/2023  
+20,detergente em gel,12,6.50,20/01/2023  
+21,escova sanitária,5,13.00,21/01/2023  
+22,rodo de pia,10,8.00,22/01/2023  
+23,balde de limpeza,3,15.00,23/01/2023  
+24,esfregão,4,20.00,24/01/2023  
+25,sabão líquido para roupas,6,30.00,25/01/2023  
+26,desodorante spray,12,18.00,26/01/2023  
+27,shampoo,15,10.00,27/01/2023  
+28,condicionador,15,12.00,28/01/2023  
+29,creme dental,20,5.00,29/01/2023  
+30,sabonete líquido,10,8.00,30/01/2023  
+31,papel higiênico,30,6.00,31/01/2023  

@@ -1,0 +1,17 @@
+Data e hora do sistema: 2024/10/02 15:27
+Data do primeiro registro: 02/01/2023
+Data do último registro: 14/02/2023
+Quantidade total de itens diferentes vendidos: 45
+
+Primeiras 10 linhas do arquivo:
+id,produto,quantidade,preço,data
+1,notebook dell,5,3500.00,02/01/2023
+2,smartphone samsung,8,1200.00,02/01/2023
+3,tablet apple,3,2500.00,03/01/2023
+4,smartwatch xiaomi,10,300.00,04/01/2023
+5,fone bluetooth,15,150.00,05/01/2023
+6,teclado mecânico,7,450.00,06/01/2023
+7,mouse gamer,12,250.00,07/01/2023
+8,monitor LED 24'',4,800.00,08/01/2023
+9,caixa de som bluetooth,20,120.00,09/01/2023
+10,headset gamer,6,200.00,10/01/2023

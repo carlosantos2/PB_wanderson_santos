@@ -1,0 +1,46 @@
+id,produto,quantidade,preço,data  
+1,notebook dell,5,3500.00,01/01/2023
+2,smartphone samsung,8,1200.00,02/01/2023
+3,tablet apple,3,2500.00,03/01/2023
+4,smartwatch xiaomi,10,300.00,04/01/2023
+5,fone bluetooth,15,150.00,05/01/2023
+6,teclado mecânico,7,450.00,06/01/2023
+7,mouse gamer,12,250.00,07/01/2023
+8,monitor LED 24'',4,800.00,08/01/2023
+9,caixa de som bluetooth,20,120.00,09/01/2023
+10,headset gamer,6,200.00,10/01/2023
+11,webcam logitech,9,300.00,11/01/2023
+12,impressora multifuncional,3,600.00,12/01/2023
+13,câmera digital sony,2,1200.00,13/01/2023
+14,hd externo 1TB,8,350.00,14/01/2023
+15,pendrive 32GB,30,50.00,15/01/2023
+16,placa de vídeo nvidia,5,2500.00,16/01/2023
+17,roteador wi-fi,10,180.00,17/01/2023
+18,modem usb 4G,6,150.00,18/01/2023
+19,smart TV 43'',2,2400.00,19/01/2023
+20,soundbar samsung,3,800.00,20/01/2023
+21,controle para console,8,200.00,21/01/2023
+22,console playstation 5,2,4500.00,22/01/2023
+23,console xbox series x,2,4700.00,23/01/2023
+24,carregador portátil,15,100.00,24/01/2023
+25,dron DJI mini,1,3500.00,25/01/2023
+26,kindle paperwhite,4,500.00,26/01/2023
+27,gopro hero 8,2,1500.00,27/01/2023
+28,home theater sony,3,1200.00,28/01/2023
+29,ventilador inteligente,5,250.00,29/01/2023
+30,repetidor de sinal wi-fi,12,100.00,30/01/2023
+31,cafeteira elétrica,7,180.00,31/01/2023
+32,ar condicionado split,3,2000.00,01/02/2023
+33,fogão cooktop,2,900.00,02/02/2023
+34,micro-ondas electrolux,4,450.00,03/02/2023
+35,gaming chair,6,800.00,04/02/2023
+36,frigobar consul,2,700.00,05/02/2023
+37,lavadora de roupas,3,1300.00,06/02/2023
+38,secadora de roupas,2,1500.00,07/02/2023
+39,robot aspirador,5,900.00,08/02/2023
+40,máquina de lavar louça,2,1800.00,09/02/2023
+41,geladeira duplex,1,2500.00,10/02/2023
+42,projetor epson,3,1300.00,11/02/2023
+43,espremedor de frutas,10,100.00,12/02/2023
+44,liquidificador philips,6,250.00,13/02/2023
+45,pipoqueira elétrica,8,200.00,14/02/2023
