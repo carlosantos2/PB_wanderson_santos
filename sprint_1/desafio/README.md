@@ -12,7 +12,7 @@ O desafio consistia em gerar relatórios com informações detalhadas sobre as v
 - `consolidador_de_processamento_de_vendas.sh`: Script para consolidar relatórios gerados. 
 
 Veja abaixo um print com todos os diretórios e scripts criados.
-![imagem](sprint_1\evidencias\tree_1.png)
+![visão geral](../evidencias/tree_1.png)
 
 
 ## Agora vamos ver o passo a passo para criação dos diretórios e scripts:
@@ -29,30 +29,32 @@ Esse script irá processar o arquivo `dados_de_vendas.csv`, gerar relatórios e 
   - As primeiras 10 linhas do arquivo de vendas processado.
 - Compacta o arquivo de backup: Para economia de espaço, o script gera um arquivo .zip.
 - Remove arquivos antigos: Exclui arquivos não compactados para manter o diretório organizado.
+confira a imagem:
 
-![imagem](sprint_1\evidencias\processamento_de_vendas.png)
+![processamento de vendas](../evidencias/processamento_de_vendas.png)
 
 Logo após, temos que tornar o script executável com o comando `chmod +x processamento_de_vendas.sh`.
 
 ## Em seguida, vamos criar o segundo executável: `consolidador_de_processamento_de_vendas.sh`
 Esse script irá consolidar todos os relatórios gerados pelo `processamento_de_vendas.sh` em um único arquivo final chamado `relatorio_final.txt`.
 
-![imagem](sprint_1\evidencias\consolidador.png)
+![consolidador](..\evidencias\consolidador.png)
 
 Após a criação do script, temos que torná-lo executável com o comando `chmod +x consolidador_de_processamento_de_vendas.sh`. 
 
 Com os dois executáveis criados e testados, precisamos configurar o `crontab` para automatizar o `processamento_de_dados` para ser executado durante 4 dias às 15h27. Então digitamos o comando `crontab -e` no terminal e inserimos o caminho:  27 15 * * 1-4 /home/carlossantos/ecommerce/processamento_de_vendas.sh(Este caminho é da minha máquina).
-![imagem](sprint_1\evidencias\cron.png)
+![cron](..\evidencias\cron.png)
 
 ## Agora que está tudo configurado, vamos ver a árvore após a execução do segundo dia:
-![imagem](sprint_1\evidencias\seg_execução.png)
+![segundo dia de execução](..\evidencias\seg_execução.png)
 Veja que foram criados os dois relatórios e os dois backups corretamente.
 
 ## Agora vamos ver a árvore após o último dia de execução:
-![imagem](sprint_1\evidencias\ultimo_dia_de_execução.png)
+![ultimo dia de execução](..\evidencias\ultimo_dia_de_execução.png)
 
 Nota-se que foram criados os quatro relatórios e, depois de executar manualmente o consolidador, gerou também o relatório final.
 
 # Dificuldades 
 Tive dificuldades no agendamento do `crontab`, pois havia passado o endereço errado do arquivo. Também enfrentei algumas outras dificuldades, como, por exemplo, não tinha o pacote zip instalado, então quando o executável rodava, retornava uma mensagem de erro, veja na imagem:
-![imagem](sprint_1\evidencias\zip.png)
+![zip_dificudade](..\evidencias\zip.png)
+
