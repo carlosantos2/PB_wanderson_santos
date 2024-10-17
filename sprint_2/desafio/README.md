@@ -14,9 +14,14 @@ Tabela Locacoes: Garantimos que todas as colunas (ex: cliente, carro, vendedor) 
 Eliminação de dependências transitivas: A tabela foi reorganizada para remover dependências entre colunas não-chave.
 Tabela Carros: Separação da informação sobre o combustível em uma tabela distinta Combustivel, removendo redundâncias.
 
+### Confira o script SQL que usei para fazer a normalização:
+
+[🗄️script_normalização.sql](../desafio/script_normalizacoes.sql)
+
 # veja a imagem da modelagem relacional após a normalização da base de dados
 
 ![imagem da tabela relacional](../evidencias/TABELA_RELACIONAL.png)
+
 
 # Logo após a criação do modelo relacional foram criadas as tabelas fato e dimencionais, além de serem criadas views:
 
@@ -25,11 +30,19 @@ As tabelas de dimensões descrevem os elementos de cada evento (clientes, carros
 
 ![tabelas dimencionais](../evidencias/TABELA_DIMENCIONAL.png)
 
+### Confira o script que usei para fazer as tabelas fato e dimencionais:
+
+[🗄️script_fato_e_dimenção.sql](../desafio/script_Dimencoes_fato.sql)
+
 ## Views
 As views foram criadas para facilitar a consulta dos dados das tabelas dimencionais,
 Nesse caso foi criada uma view para cada tabela dimencional, para ficar mais claro veja uma imagem das views criadas:
 
 ![view](../evidencias/views.png)
+
+### Confira o script que usei para fazer as VIEWS:
+
+[🗄️script_viw.sql](../desafio/script_Views.sql)
 
 
 
