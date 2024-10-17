@@ -26,11 +26,10 @@ As tabelas de dimensões descrevem os elementos de cada evento (clientes, carros
 ![tabelas dimencionais](../evidencias/TABELA_DIMENCIONAL.png)
 
 ## Views
-Uma view foi criada para facilitar a consulta dos dados das locações, unindo as informações da tabela de fato com as tabelas de dimensões.
-Nesse caso não julguei necessário criar uma view para cada tabela dimencional, criei apenas uma para demonstrar as consultas( no desafio não explicita a quantidade de views a serem criadas).
-Veja a imagem da view abaixo:
+As views foram criadas para facilitar a consulta dos dados das tabelas dimencionais,
+Nesse caso foi criada uma view para cada tabela dimencional, para ficar mais claro veja uma imagem das views criadas:
 
-![view](../evidencias/view.png)
+![view](../evidencias/views.png)
 
 
 
