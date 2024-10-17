@@ -1,4 +1,4 @@
-## Sprint 2 - Trilha de Data Engineering
+## Sprint 2 (SQL & AWS) - Trilha de Data Engineering
 
 ### Introdução
 
