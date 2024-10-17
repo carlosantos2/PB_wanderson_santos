@@ -3,14 +3,14 @@ O desafio consistia em normalizar a base de dados e criar um modelo dimensional 
 
 # Passo a passo Para a normalização
 
-### 1. Primeira Forma Normal (1NF):
+### 1. Primeira Forma Normal :
 Remoção de grupos repetidos: Garantimos que cada tabela possui colunas atômicas, ou seja, sem múltiplos valores em um único campo.
 Tabela Clientes: Cada cliente tem uma única linha com seus atributos individuais.
 Tabela Carros: Cada carro possui seus detalhes únicos (marca, modelo, combustível).
-### 2. Segunda Forma Normal (2NF):
+### 2. Segunda Forma Normal :
 Eliminação de dependências parciais: As tabelas foram organizadas para que cada coluna não-chave dependa inteiramente da chave primária.
 Tabela Locacoes: Garantimos que todas as colunas (ex: cliente, carro, vendedor) dependem totalmente da chave primária idLocacao.
-### 3. Terceira Forma Normal (3NF):
+### 3. Terceira Forma Normal :
 Eliminação de dependências transitivas: A tabela foi reorganizada para remover dependências entre colunas não-chave.
 Tabela Carros: Separação da informação sobre o combustível em uma tabela distinta Combustivel, removendo redundâncias.
 
