@@ -47,7 +47,7 @@ Veja a lista de exercicios:
 
 
 
-### Exercicios de 8 a 16 caso de estudos uma "Loja".
+### Exercicios de 8 a 16 caso de estudos "Loja".
 
 Veja a lista de exercicios abaixo:
 
@@ -75,9 +75,18 @@ Veja a lista de exercicios abaixo:
 
 [ 📊livros mais caros.csv](../sprint_2/exercicios/Livros_mais_caros.csv)
 
+Script SQL usado para extração:
+
+[🗄️livros_mais_caros.sql](../sprint_2/exercicios/livros_mais_caros.sql)
+
+
   A segunda parte solicita a exportação das 5 editoras com maior quantidade de livros, em formato CSV com separador pipe (|), contendo as colunas: CodEditora, NomeEditora e QuantidadeLivros.
 
   [📊Editora com maior quantidade de livros](../sprint_2/exercicios/Editoras_maior_quantidade_livro.csv)
+
+  Script SQL usado para extração:
+
+[🗄️Editoras_com-mais_livros.sql](../sprint_2/exercicios/Editoras_com_mais_livros.sql)
  
 ## Certificados 
 Na segunda sprint obtive o certificado AWS PARTNER: SALES ACCREDITATION (BUSINESS) (PORTUGUESE)
