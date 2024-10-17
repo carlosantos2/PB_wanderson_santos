@@ -19,7 +19,7 @@ Nesta segunda sprint da trilha de Data Engineering, nos aprofundamos em conceito
 
 
 ## Desafio 
-Enfrentamos o desafio de normalizar uma base de dados e criar um modelo dimensional com base no arquivo fornecido concessionaria.zip. As tarefas principais incluíam: aplicar as Formas Normais nas tabelas para eliminar redundâncias e organizar os dados de forma eficiente. Após a normalização, era necessário converter o modelo relacional em um Modelo Dimensional, com a criação de uma tabela de fato e tabelas de dimensões. Além disso, seria preciso criar views para facilitar a consulta e análise dos dados. Agora vamos ver o passo a passo da criação das tabelas, relações e views.(conferir a pasta desafios dentro desse repositório)[ Desafio](../sprint_2/desafio/)
+Enfrentamos o desafio de normalizar uma base de dados e criar um modelo dimensional com base no arquivo fornecido concessionaria.zip. As tarefas principais incluíam: aplicar as Formas Normais nas tabelas para eliminar redundâncias e organizar os dados de forma eficiente. Após a normalização, era necessário converter o modelo relacional em um Modelo Dimensional, com a criação de uma tabela de fato e tabelas de dimensões. Além disso, seria preciso criar views para facilitar a consulta e análise dos dados. Agora vamos ver o passo a passo da criação das tabelas, relações e views.(conferir a pasta desafios dentro desse repositório)[ 📁Desafio](../sprint_2/desafio/)
 .
 
 
@@ -71,11 +71,11 @@ Veja a lista de exercicios abaixo:
 
  Foi solicitado também o exercício de Extrair e exportar dados em formato CSV da base de dados "Biblioteca". A primeira parte envolve a exportação dos 10 livros mais caros em formato CSV, com separador ponto e vírgula (;), incluindo as colunas: CodLivro, Titulo, CodAutor, NomeAutor, Valor, CodEditora, e NomeEditora.
 
-[ livros mais caros](../sprint_2/exercicios/Livros_mais_caros.csv)
+[ 📊livros mais caros](../sprint_2/exercicios/Livros_mais_caros.csv)
 
   A segunda parte solicita a exportação das 5 editoras com maior quantidade de livros, em formato CSV com separador pipe (|), contendo as colunas: CodEditora, NomeEditora e QuantidadeLivros.
 
-  [Editora com maior quantidade de livros](../sprint_2/exercicios/Editoras_maior_quantidade_livro.csv)
+  [📊Editora com maior quantidade de livros](../sprint_2/exercicios/Editoras_maior_quantidade_livro.csv)
  
 ## Certificados 
 Na segunda sprint obtive o certificado AWS PARTNER: SALES ACCREDITATION (BUSINESS) (PORTUGUESE)
