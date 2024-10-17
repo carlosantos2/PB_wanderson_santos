@@ -69,6 +69,13 @@ Veja a lista de exercicios abaixo:
 
 [ exercicio_16](../sprint_2/exercicios/ex_16.sql)
 
+ Foi solicitado também o exercício de Extrair e exportar dados em formato CSV da base de dados "Biblioteca". A primeira parte envolve a exportação dos 10 livros mais caros em formato CSV, com separador ponto e vírgula (;), incluindo as colunas: CodLivro, Titulo, CodAutor, NomeAutor, Valor, CodEditora, e NomeEditora.
+
+[ livros mais caros](../sprint_2/exercicios/Livros_mais_caros.csv)
+
+  A segunda parte solicita a exportação das 5 editoras com maior quantidade de livros, em formato CSV com separador pipe (|), contendo as colunas: CodEditora, NomeEditora e QuantidadeLivros.
+
+  [Editora com maior quantidade de livros](../sprint_2/exercicios/Editoras_maior_quantidade_livro.csv)
  
 ## Certificados 
 Na segunda sprint obtive o certificado AWS PARTNER: SALES ACCREDITATION (BUSINESS) (PORTUGUESE)
