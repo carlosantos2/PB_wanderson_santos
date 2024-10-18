@@ -48,3 +48,37 @@ CREATE TABLE FatoLocacoes (
     FOREIGN KEY (idCarro) REFERENCES DimCarro(idCarro),
     FOREIGN KEY (idVendedor) REFERENCES DimVendedor(idVendedor)
 );
+-- populando as tabelas Fato e dimencionais para consultas na views:
+-- Populando a tabela DimCliente
+INSERT INTO DimCliente (idCliente, nomeCliente, cidadeCliente, estadoCliente, paisCliente)
+SELECT DISTINCT idCliente, nomeCliente, cidadeCliente, estadoCliente, paisCliente
+FROM tb_locacao;
+
+-- Populando a tabela DimCombustivel
+INSERT INTO DimCombustivel (idCombustivel, tipoCombustivel)
+SELECT DISTINCT idCombustivel, tipoCombustivel
+FROM tb_locacao;
+
+-- Populando a tabela DimCarro
+INSERT INTO DimCarro (idCarro, marcaCarro, modeloCarro, anoCarro, kmCarro, classiCarro, idCombustivel)
+SELECT DISTINCT idCarro, marcaCarro, modeloCarro, anoCarro, kmCarro, classiCarro, idCombustivel
+FROM tb_locacao;
+
+-- Populando a tabela DimVendedor
+INSERT INTO DimVendedor (idVendedor, nomeVendedor, sexoVendedor, estadoVendedor)
+SELECT DISTINCT idVendedor, nomeVendedor, sexoVendedor, estadoVendedor
+FROM tb_locacao;
+
+-- populqndo a tabela fato
+INSERT INTO FatoLocacoes (idLocacao, idCliente, idCarro, idVendedor, dataLocacao, qtdDiaria, vlrDiaria, dataEntrega)
+SELECT 
+    idLocacao,
+    idCliente,
+    idCarro,
+    idVendedor,
+    dataLocacao,
+    qtdDiaria,
+    vlrDiaria,
+    dataEntrega
+FROM tb_locacao;
+
