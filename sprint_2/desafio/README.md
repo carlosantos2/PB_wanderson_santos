@@ -26,7 +26,7 @@ Tabela Carros: Separação da informação sobre o combustível em uma tabela di
 # Logo após a criação do modelo relacional foram criadas as tabelas fato e dimencionais, além de serem criadas views:
 
 ### Tabelas dimencionais:
-As tabelas de dimensões descrevem os elementos de cada evento (clientes, carros, vendedores, combustível) e as tabela de fato centraliza os eventos de negócios, que no caso vai ser a locação de carros, como pode ser visto na imagem abaixo:
+As tabelas de dimensões descrevem os elementos de cada evento (clientes, carros, vendedores, combustível) e as tabela de fato centraliza os eventos de negócios, que no caso vai ser a locação de carros. Para uma melhor analise eu inseri os dados da tabela tb_locacao nas tabelas dimencionais para que seja possivel as consultas nas views, como pode ser visto na imagem abaixo:
 
 ![tabelas dimencionais](../evidencias/TABELA_DIMENCIONAL.png)
 
