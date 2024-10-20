@@ -60,9 +60,10 @@ SELECT DISTINCT idCombustivel, tipoCombustivel
 FROM tb_locacao;
 
 -- Populando a tabela DimCarro
-INSERT INTO DimCarro (idCarro, marcaCarro, modeloCarro, anoCarro, kmCarro, classiCarro, idCombustivel)
+INSERT OR IGNORE INTO DimCarro (idCarro, marcaCarro, modeloCarro, anoCarro, kmCarro, classiCarro, idCombustivel)
 SELECT DISTINCT idCarro, marcaCarro, modeloCarro, anoCarro, kmCarro, classiCarro, idCombustivel
-FROM tb_locacao;
+FROM tb_locacao
+WHERE idCombustivel IN (SELECT idCombustivel FROM DimCombustivel);
 
 -- Populando a tabela DimVendedor
 INSERT INTO DimVendedor (idVendedor, nomeVendedor, sexoVendedor, estadoVendedor)
