@@ -91,20 +91,27 @@ Veja a lista de exercicios abaixo:
 
  Foi solicitado também o exercício que tem como objetivo praticar o conhecimento em ETL com Python, abordando desde conceitos básicos até intermediários. O desafio consiste em processar dados do arquivo atores.csvusando apenas recursos nativos de Python, sem bibliotecas como Pandas ou NumPy. As tarefas envolvem encontrar o ator com mais, calcular a média de bilheteria dos principais filmes, identificar o ator com a maior média por filme, contar aparições dos filmes de maior bilheteria e listar os atores por receita total. As respostas deverão ser salvas em arquivos de texto nomeados de etapa-1.txt a etapa-5.txt, mantendo o arquivo atores.csv inalterado.
 
-[Etapa 01](../sprint_3/exercicios/ETL_actors/etapa-1.txt)
+Arquivo txt: [Etapa-1.txt](../sprint_3/exercicios/ETL_actors/etapa-1.txt)
 
-[Etapa 02](../sprint_3/exercicios/ETL_actors/etapa-2.txt)
+Arquivo txt: [Etapa-2.txt](../sprint_3/exercicios/ETL_actors/etapa-2.txt)
 
-[Etapa 03](../sprint_3/exercicios/ETL_actors/etapa-3.txt)
+Arquivo txt: [Etapa-3.txt](../sprint_3/exercicios/ETL_actors/etapa-3.txt)
 
-[Etapa 04](../sprint_3/exercicios/ETL_actors/etapa-4.txt)
+Arquivo txt: [Etapa-4.txt](../sprint_3/exercicios/ETL_actors/etapa-4.txt)
 
-[Etapa 05](../sprint_3/exercicios/ETL_actors/etapa-5.txt)
+Arquivo txt: [Etapa-5.txt](../sprint_3/exercicios/ETL_actors/etapa-5.txt)
 
+### Scripts python usados para fazer a manipulação do arquivo:
 
-Script SQL usado para fazer a manipulação do arquivo:
+Codigo em python: [Etapa-1.py](../sprint_3/exercicios/ETL_actors/etapa-1.py)
 
-[Script_Etl](../sprint_3/exercicios/ETL_actors/script_etl.py)
+Codigo em python: [Etapa-2.py](../sprint_3/exercicios/ETL_actors/etapa-2.py)
+
+Codigo em python:  [Etapa-3.py](../sprint_3/exercicios/ETL_actors/etapa-3.py)
+
+Codigo em python:  [Etapa-4.py](../sprint_3/exercicios/ETL_actors/etapa-4.py)
+
+Codigo em python:[Etapa-5.py](../sprint_3/exercicios/ETL_actors/etapa-5.py)
 
  
 ## Certificados 
