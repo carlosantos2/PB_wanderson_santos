@@ -28,7 +28,7 @@ Para iniciar eu instalei as as bibliotecas **Pandas** e **Matplotlib**
 
 ![Gráfico de barras](../evidencias/grafico_de_barras.png)
 
-### 3. Fazer um gráfico de pizza (pie chart) mostrando as categorias de apps existentes no dataset de acordo com a frequência em que elas aparecem.
+### 3. Fazer um gráfico de pizza (pie chart) mostrando todas as categorias de apps existentes no dataset de acordo com a frequência em que elas aparecem.
 
 ![Gráfico de pizza](../evidencias/grafico_pizza.png)
 
