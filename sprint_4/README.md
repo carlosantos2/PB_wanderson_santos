@@ -22,6 +22,8 @@ Aprendi fundamentos da AWS, incluindo o uso do Console de Gerenciamento, e como 
 
 O desafio principal desta sprint foi desenvolver uma imagem Docker a partir de um arquivo Dockerfile e executar containers com scripts Python que geram hashes de strings usando SHA-1. Este desafio nos ajudou a consolidar o conhecimento sobre a criação e a reutilização de containers Docker, além de aplicar princípios de segurança e integridade de dados.
 
+- [📁Desafio](../sprint_4/desafio)
+
 ### Tarefas do Desafio:
 
 1. **Construção de Imagem Docker**: Criação de um Dockerfile personalizado que define um ambiente Python minimalista, com as dependências necessárias para rodar o script de hashing.
