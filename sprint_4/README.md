@@ -50,8 +50,12 @@ Veja a lista dos exercícios:
 
 ## Certificados
 
-Nesta sprint, obtemos um certificado adicional AWS Partner: Credenciamento (Técnico) (Português) | AWS Partner: Accreditation (Technical) (Portuguese).
+Nesta sprint, obtemos um certificado adicional AWS Partner: Credenciamento (Técnico) (Português) | AWS Partner: Accreditation (Technical) (Portuguese) 
 ![Certificado AWS](../sprint_4/certificados/AWS.png)
+
+Obtive tambem o certificado de Fundamentos Técnicos da AWS (Português) | AWS Technical Essentials (Portuguese).
+
+![Certificado AWS](../sprint_4/certificados/fundamentos_tecnicos.png)
 
 ## Conclusão
 
