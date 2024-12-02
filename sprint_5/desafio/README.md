@@ -47,56 +47,36 @@ A partir do arquivo armazenado no S3:
    - **Cláusula de filtro** 
 
   Nessa função eu fiz um Filtro com dois operadores lógicos onde selecionamos vagas:
-  O salário inicial é maior que R$ 1.000 & A carga horária semanal é menor que 30 horas.
+  Onde o tipo de vaga é = 'ESTáGIO REMUNERADO' e 'no_salario_inicio' > 1000
 
    - **Duas funções de agregação** 
 
-Função foi feita a média salarial agrupada por tipo de vagan e
-Função para Somar a quantidade de candidatos agrupada por cidade.
+Função foi feita a média salarial.
+Função para Somar o total de vagas no df.
 
    - **Uma função condicional** 
- Foi criada uma coluna status_salario:
+ Foi criada uma coluna status para mensurar a quantidade de canditatos por vaga:
 
-Valores "Alto" para salários acima da média.
-
-Valores "Baixo" para salários abaixo da média.
+ onde se a quantidade de candidatos for maior que 10 , o status é 'MUITOS CANDIDATOS'
+ se a quantidade de candidatos for menor ou igual a 10, o status é 'POUCOS CANDIDATOS'
 
    - **Uma função de conversão**
 
-   Foi adicionada uma nova coluna chamada salario_usd, convertendo o salário inicial de R$ para USD.
+   a coluna 'no_salario_inicio' foi convertida para float.
 
    - **Uma função de data** 
 
-Foi extraido o ano da coluna dt_vigencia_inicio e criamos uma nova coluna chamada ano_vigencia.
+a coluna dt_vigencia_inicio foi convertida para datetime
 
    - **Uma função de string**
 
-   o arquivo foi todo alterado para letras maiusculas
+   A coluna 'status' foi convertida para letra maiúscula.
 
 #### 4. Salvamento e Upload do Resultado
 
 - Salvei o dataframe manipulado em um novo arquivo **CSV**.
-- Faça o upload do arquivo resultante para o mesmo bucket S3 utilizando `boto3`.
+- E por fim foi feito o upload do arquivo resultante para o mesmo bucket S3 utilizando `boto3`.
 
----
-
-## 5. Evidências e Organização no Git
-
-Certifique-se de incluir os seguintes itens no repositório Git:
-
-1. **Documentação**:
-   - Markdown explicando:
-     - O conjunto de dados escolhido.
-     - Consultas realizadas e manipulações executadas.
-     - Resultados obtidos em cada etapa.
-2. **Códigos Python (`.py`)** utilizados.
-3. **Arquivos CSV**:
-   - Arquivo original baixado.
-   - Arquivo resultante após as manipulações.
-4. **Evidências de Execução**:
-   - Imagens em formato `.jpeg` ou `.png`.
-
----
 
 ## Conclusão
 
