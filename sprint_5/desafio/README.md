@@ -71,7 +71,7 @@ Foi extraido o ano da coluna dt_vigencia_inicio e criamos uma nova coluna chamad
 
    - **Uma função de string**
 
-   Os nomes das cidades Foram transformadas todas para  letras maiúsculas
+   o arquivo foi todo alterado para letras maiusculas
 
 #### 4. Salvamento e Upload do Resultado
 
