@@ -23,8 +23,21 @@ O desafio consiste na construção de um Data Lake para Filmes e Séries, abrang
 
 
 
-## Exercícios
- [📁Exercicio](../sprint_5/exercicios/README_exercicio.md)
+## Exercícios: 
+
+- Exercício 1: Criar um bucket S3 e configurar para armazenar dados.
+
+- Exercicio 2: athena: criar um data warehouse com a AWS Athena.
+
+- Exercicio 3: lambda: criar uma função lambda para realizar uma tarefa específica.
+
+### Confira os tres execicios abaixo:
+
+ [📁Exercicio-1_criação_de_bucket_S3](../sprint_6/exercicios/README_exercicio.md)
+
+  [📁Exercicio-2_Athena](../sprint_6/exercicios/README_athena.md)
+
+   [📁Exercicio-3_Lambda](../sprint_6/exercicios/README_lambda.md)
 
 ## Certificados
 Nesta sprint nos ob temos os seguintes certificados: 
