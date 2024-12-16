@@ -40,7 +40,7 @@ O desafio consiste na construção de um Data Lake para Filmes e Séries, abrang
    [📁Exercicio-3_Lambda](../sprint_6/exercicios/README_lambda.md)
 
 ## Certificados
-Nesta sprint nos ob temos os seguintes certificados: 
+Nesta sprint nos obtivemos os seguintes certificados: 
 
 1. **AWS Skill Builder - Fundamentals of Analytics on AWS – Part 1 (Portuguese)**  
    ![Certificado - Fundamentals of Analytics on AWS – Part 1](../sprint_6/certificados/pt-p1.png)
