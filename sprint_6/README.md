@@ -27,7 +27,7 @@ O desafio consiste na construção de um Data Lake para Filmes e Séries, abrang
 
 - Exercício 1: Criar um bucket S3 e configurar para armazenar dados.
 
-- Exercicio 2: athena: criar um data warehouse com a AWS Athena.
+- Exercicio 2: athena: criar um data Base com a AWS Athena.
 
 - Exercicio 3: lambda: criar uma função lambda para realizar uma tarefa específica.
 
