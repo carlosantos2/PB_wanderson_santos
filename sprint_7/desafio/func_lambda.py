@@ -4,7 +4,7 @@ from datetime import datetime
 import json
 
 # Configurações fixas
-TMDB_API_KEY = "055549823ab760f77ea2ec8a4323f80f"  # chave da API do TMDB
+TMDB_API_KEY = "xxxxxxxxxxxxxxx"  # chave da API do TMDB
 BUCKET_NAME = "data-lake-desafio-final-parte-2"  #  nome do bucket S3
 YEAR = 2022  # Ano para análise
 GENRES = {
