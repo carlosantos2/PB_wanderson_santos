@@ -1,7 +1,7 @@
 # 👋 Olá! Sou **Wanderson Carlos**
 
 ## Sobre Mim
-Sou um estudante de **Sistemas de Informação** na **Universidade Federal Rural da Amazônia (UFRA)**, atualmente no **5º semestre**. Tenho 22 anos e moro em **Belém do Pará**. Meus estudos e projetos são focados em tecnologia e sustentabilidade e em como essas duas áreas podem se complementar, buscando soluções inovadoras e sustentáveis para o futuro.
+Sou um estudante de **Sistemas de Informação** na **Universidade Federal Rural da Amazônia (UFRA)**, atualmente no **6º semestre**. Tenho 22 anos e moro em **Belém do Pará**. Meus estudos e projetos são focados em tecnologia e sustentabilidade e em como essas duas áreas podem se complementar, buscando soluções inovadoras e sustentáveis para o futuro.
 
 <img src="https://github.com/user-attachments/assets/89738de7-5259-4d63-868b-8c1e5242b60b" alt="Minha Foto" width="300" />
 
