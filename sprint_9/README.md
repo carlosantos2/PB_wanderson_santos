@@ -27,9 +27,9 @@ Nesta nona sprint da trilha de Data Engineering, avançamos para a etapa 4 do de
   - Estruturamos os dados em tabelas fato e dimensão.
   - Criamos um modelo que suporta consultas analíticas multidimensionais no Amazon QuickSight.
 - **Processamento de Dados:**
-  - Implementamos dois jobs no AWS Glue:
-    - Job 1: Transformação de dados CSV e armazenamento no formato PARQUET.
-    - Job 2: Transformação de dados JSON e particionamento por ano, mês e dia.
+  - Implementamos um job no AWS Glue:
+    - Job 1: Transformação de dados da camada trustede para a acamada refined e armazenamento no formato PARQUET.
+   
 - **Configuração dos Jobs:**
   - **Worker type:** G 1x.
   - **Requested number of workers:** 2.
