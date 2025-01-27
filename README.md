@@ -27,7 +27,7 @@ Sou um estudante de **Sistemas de Informação** na **Universidade Federal Rural
 - **Linguagens de Programação**: Python, Java, HTML, CSS
 - **Ferramentas de Análise**: NVIVO, Excel
 - **Banco de Dados**: MySQL
-- **Frameworks**: React.js
+
 
 ## 🚀 Experiências
 - **Projeto de Pesquisa**: Participação ativa no projeto "Práticas Organizacionais e Redes Sociais - Amazônia e Sustentabilidade", analisando o impacto de campanhas sustentáveis nas redes sociais e a imagem de responsabilidade social das empresas.
