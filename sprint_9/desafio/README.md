@@ -9,7 +9,7 @@ O objetivo deste desafio é aplicar os conceitos aprendidos ao longo do programa
 - **Código Python (.py):**
   - Script Spark para o AWS Glue, processando os dados da Trusted Zone para a Refined Zone.
 
-   [Job 1: Código AWS Glue para CSV](../desafio/job_refined.py)
+   [Job 1: Código AWS Glue trusted para refined](../desafio/job_refined.py)
 
 - **Modelo de Dados:**
   - Representação da camada Refined, baseada na modelagem multidimensional.
@@ -41,7 +41,7 @@ O modelo multidimensional foi desenvolvido com foco em consultas analíticas. A 
 
 - **Origem:** Dados da Trusted Zone.
 - **Transformação:** Limpeza, padronização e conversão para formato PARQUET.
-- **Persistência:** Dados armazenados na Refined Zone, particionados conforme necessidade analítica.
+- **Persistência:** Dados armazenados na Refined Zone.
 
 
 #### Configurações do Job:
@@ -75,7 +75,7 @@ Os dados processados foram armazenados no S3, otimizados para consultas no Athen
 A realização deste desafio consolidou conhecimentos importantes sobre o processamento de dados no AWS, desde a configuração de permissões até a modelagem e transformação de dados.
 
 - Estruturamos a camada Refined com base na modelagem multidimensional.
-- Processamos dados brutos para um formato otimizado e particionado.
+- Processamos dados brutos para um formato otimizado.
 - Preparámos os dados para visualização no QuickSight, garantindo um pipeline eficiente.
 
 A experiência reforçou a importância de boas práticas no gerenciamento de Data Lakes e uso de ferramentas AWS.
