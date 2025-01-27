@@ -9,7 +9,7 @@ O objetivo deste desafio é aplicar os conceitos aprendidos ao longo do programa
 - **Código Python (.py):**
   - Script Spark para o AWS Glue, processando os dados da Trusted Zone para a Refined Zone.
 
-   [Job 1: Código AWS Glue trusted para refined](../desafio/job_refined.py)
+   [Job_glue: Código AWS Glue trusted para refined](../desafio/job_refined.py)
 
 - **Modelo de Dados:**
   - Representação da camada Refined, baseada na modelagem multidimensional.
@@ -43,6 +43,7 @@ O modelo multidimensional foi desenvolvido com foco em consultas analíticas. A 
 - **Transformação:** Limpeza, padronização e conversão para formato PARQUET.
 - **Persistência:** Dados armazenados na Refined Zone.
 
+[Job_glue: Código do Glue trusted para refined](../desafio/job_refined.py)
 
 #### Configurações do Job:
 
