@@ -8,17 +8,15 @@ Nesta décima sprint da trilha de Data Engineering, avançamos para a etapa fina
 
 ### **Criação de Dashboards no Amazon QuickSight**
 - Construção de diferentes visualizações para análise exploratória dos dados de filmes e séries.
-- Utilização de gráficos de barras, pizza, tabelas dinâmicas e mapas de calor.
-- Configuração de métricas e KPIs, como total de títulos, popularidade por categoria e avaliação média por gênero.
+- Utilização de gráficos de barras e de pizza.
+
 
 ### **Consumo de Dados via AWS Athena**
 - Configuração do Athena como fonte de dados para o QuickSight.
-- Criação de consultas SQL otimizadas para alimentar o dashboard.
 - Uso da camada Refined para garantir um consumo de dados eficiente.
 
 ### **Documentação e Evidências**
 - Documentação detalhada do desafio, incluindo prints e explicações das etapas executadas.
-- Registros de execução das consultas no Athena.
 - Capturas do dashboard final implementado no QuickSight.
 
 ## Desafios
