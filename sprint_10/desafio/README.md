@@ -1,4 +1,4 @@
-# Desafio AWS: Consumo de Dados na Camada Refined - Sprint10
+# Desafio final-AWS: Criação de Dashboards no Amazon QuickSight - Sprint10
 
 ## 1. Objetivo
 
