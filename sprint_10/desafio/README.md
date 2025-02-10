@@ -66,7 +66,7 @@ O primeiro gráfico apresenta a distribuição percentual da quantidade de filme
 
 ## **Média das notas das avaliações por Idioma dos filmes de comédia**
 
-Ao analisarmos a média das avaliações dos filmes de comédia por idioma, notamos um cenário interessante. O idioma mais bem avaliado é o bs (8.8), seguido por s (8.5), com (7.57), ko (7.5), si (7.5), sv (7.5), lb (7.4), mr (7.4), pa (7.4), en (7.32), fr (6.73), it (6.68), pt (6.66), ml (6.63), de (6.60) e hi (6.5). Esse resultado sugere que, mesmo em idiomas com baixa frequência de produção, os filmes podem alcançar ótimas avaliações. Contudo, essa média pode ser influenciada pela quantidade de votos recebidos, tornando necessário um olhar mais detalhado sobre esse aspecto.
+Ao analisarmos a média das avaliações dos filmes de comédia por idioma, notamos um cenário interessante. O idioma mais bem avaliado é o bs (8.8), seguido por sq (8.5), ja (7.57), ko (7.5), si (7.5), sv (7.5), lb (7.4), mr (7.4), pa (7.4), en (7.32), fr (6.73), it (6.68), pt (6.66), ml (6.63), de (6.60), hi (6.5) e da(6.3). Esse resultado sugere que, mesmo em idiomas com baixa frequência de produção, os filmes podem alcançar ótimas avaliações. Contudo, essa média pode ser influenciada pela quantidade de votos recebidos, tornando necessário um olhar mais detalhado sobre esse aspecto.
 
 ![Média das notas das avaliações](../evidencias/media_avaliacoes.png)
 
@@ -79,7 +79,7 @@ Essa discrepância evidencia que a quantidade de votos tem um impacto direto na 
 
 ## **Média de popularidade dos filmes de comédia  por Idioma**
 
-Analisando a popularidade dos filmes de comédia por idioma. O idioma inglês (en) novamente lidera, com um índice de 13.32, seguido por japonês (ja) com 13.17 e espanhol (es) com 13.15. Outros idiomas apresentam popularidade bem menor, com destaque para fr (8.99), bn (8.20) e no (6.74). Já idiomas como bs (0.25) e si (0.24) apresentam baixa popularidade, o que pode explicar a quantidade reduzida de votos recebidos por filmes nesses idiomas.
+Analisando a popularidade dos filmes de comédia por idioma. O idioma inglês (en) novamente lidera, com um índice de 13.32, seguido por japonês (ja) com 13.18 e espanhol (es) com 13.15. Outros idiomas apresentam popularidade bem menor, com destaque para fr (9), bn (8.20) e no (6.74). Já idiomas como bs (0.25) e si (0.24) apresentam baixa popularidade, o que pode explicar a quantidade reduzida de votos recebidos por filmes nesses idiomas.
 
 ![Média da popularidade dos filmes por idioma](../evidencias/media-popularidade.png) 
 
