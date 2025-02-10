@@ -75,21 +75,15 @@ Ao analisarmos a média das avaliações dos filmes de comédia por idioma, nota
 Para entender melhor a relação entre avaliações e volume de interações, analisamos o número médio de votos que os filmes de cada idioma receberam. Os dados mostram que os filmes em inglês (en) possuem uma média de 17.398 votos, muito superior a qualquer outro idioma. Em comparação, o bs, que lidera as avaliações, tem apenas 30 votos em média, uma quantidade muito inferior. Outros idiomas como francês (9546.5), italiano (5949.2) e hindi (5271.7) também apresentam números expressivos, mas ainda assim bem abaixo do idioma predominante.
 Essa discrepância evidencia que a quantidade de votos tem um impacto direto na média das avaliações. Idiomas com poucos votos podem ter suas médias menos representativas e mais suscetíveis a variações extremas, enquanto idiomas com maior volume de votos tendem a exibir uma avaliação mais homogênea e consistente.
 
-![Média ddos numeros de votos](../evidencias/media_votos.png)
+![Média dos numeros de votos](../evidencias/media_votos.png)
 
 ## **Média de popularidade dos filmes de comédia  por Idioma**
 
 Analisando a popularidade dos filmes de comédia por idioma. O idioma inglês (en) novamente lidera, com um índice de 13.32, seguido por japonês (ja) com 13.17 e espanhol (es) com 13.15. Outros idiomas apresentam popularidade bem menor, com destaque para fr (8.99), bn (8.20) e no (6.74). Já idiomas como bs (0.25) e si (0.24) apresentam baixa popularidade, o que pode explicar a quantidade reduzida de votos recebidos por filmes nesses idiomas.
 
-![Média das notas das avaliações](../evidencias/media-popularidade.png) 
+![Média da popularidade dos filmes por idioma](../evidencias/media-popularidade.png) 
 
 ## 5. Conclusão
 
-A construção deste dashboard permitiu consolidar o conhecimento adquirido ao longo das sprints, abordando desde a ingestão e processamento até a visualização de dados. 
-
-- Foi utilizada a camada **Refined** para garantir informações estruturadas e otimizadas.
-- O **Athena** foi empregado como intermediário para consultas eficientes.
-- O **QuickSight** possibilitou a criação de um dashboard interativo e intuitivo.
-
-Esse desafio reforça a importância de uma abordagem estruturada no gerenciamento de Data Lakes e a aplicação de boas práticas no consumo de dados para a tomada de decisões estratégicas.
+A partir dessa análise, percebemos que o idioma inglês domina a produção e popularidade dos filmes de comédia, sendo também o que recebe mais votos. No entanto, filmes em idiomas menos frequentes podem obter avaliações elevadas, mas isso pode estar diretamente relacionado ao baixo número de votos, tornando essas médias menos confiáveis. Esse conjunto de fatores deve ser levado em consideração ao interpretar os resultados, destacando que a relação entre produção, avaliação e popularidade envolve múltiplos fatores, incluindo a exposição dos filmes e o engajamento do público.
 
