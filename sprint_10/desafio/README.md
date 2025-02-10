@@ -35,18 +35,18 @@ Nesta última etapa do desafio, o objetivo é extrair insights a partir dos dado
   - Construir uma narrativa coerente com os dados disponíveis.
   
 #### Configuração do QuickSight:
-- **Criar conta no QuikSight**
+ **Criar conta no QuikSight**
 
 ![criação da conta ](../evidencias/criacao_conta.png)
 
-- **Fonte de Dados conexão com Athena:**
+**Fonte de Dados conexão com Athena:**
 ![conexão com athena](../evidencias/conexao_athena.png)
 
-- **Tipo de Visualizações:** Gráficos de barras, pizza.
 
-#### **Criação da ase de dados**
+#### **Criação da base de dados**
 
 ![criação da ase de dados](../evidencias/criacao_base.png)
+
 
 ### 4.3. Resultados
 
@@ -54,27 +54,34 @@ A seguir, apresentamos as visualizações implementadas no dashboard:
 
 #### **Dashboard Principal - Visão Geral**
 
-![Dashboard Principal](../evidencias/dashboard_principal.png)
+[Dashboard Principal PDF](../desafio/analise_idioma.pdf)
 
-#### **Percentual de filmes de comédia por idiomas mais frequentes**
+
+
+## **Percentual de filmes de comédia por idiomas mais frequentes**
+
+O primeiro gráfico apresenta a distribuição percentual da quantidade de filmes de comédia produzidos por idioma entre 2010 e 2018. Observamos que o idioma inglês (en) domina amplamente o cenário, representando 81% das produções. Em seguida, temos o espanhol (es) com 7%, o francês (fr) com 6%, e os demais idiomas com percentuais inferiores. Para manter a clareza da visualização, foram incluídos apenas os seis idiomas mais relevantes, evitando que a exibição ficasse sobrecarregada com idiomas de participação muito pequena.
 
 ![percentual de filmes por idioma](../evidencias/percentual_pizza.png)
 
-#### **Média das notas das avaliações por Idioma dos filmes de comédia**
+## **Média das notas das avaliações por Idioma dos filmes de comédia**
+
+Ao analisarmos a média das avaliações dos filmes de comédia por idioma, notamos um cenário interessante. O idioma mais bem avaliado é o bs (8.8), seguido por s (8.5), com (7.57), ko (7.5), si (7.5), sv (7.5), lb (7.4), mr (7.4), pa (7.4), en (7.32), fr (6.73), it (6.68), pt (6.66), ml (6.63), de (6.60) e hi (6.5). Esse resultado sugere que, mesmo em idiomas com baixa frequência de produção, os filmes podem alcançar ótimas avaliações. Contudo, essa média pode ser influenciada pela quantidade de votos recebidos, tornando necessário um olhar mais detalhado sobre esse aspecto.
 
 ![Média das notas das avaliações](../evidencias/media_avaliacoes.png)
 
-#### **Média dos numeros de votos por Idioma dos filmes de comédia**
+## **Média dos numeros de votos por Idioma dos filmes de comédia**
+
+Para entender melhor a relação entre avaliações e volume de interações, analisamos o número médio de votos que os filmes de cada idioma receberam. Os dados mostram que os filmes em inglês (en) possuem uma média de 17.398 votos, muito superior a qualquer outro idioma. Em comparação, o bs, que lidera as avaliações, tem apenas 30 votos em média, uma quantidade muito inferior. Outros idiomas como francês (9546.5), italiano (5949.2) e hindi (5271.7) também apresentam números expressivos, mas ainda assim bem abaixo do idioma predominante.
+Essa discrepância evidencia que a quantidade de votos tem um impacto direto na média das avaliações. Idiomas com poucos votos podem ter suas médias menos representativas e mais suscetíveis a variações extremas, enquanto idiomas com maior volume de votos tendem a exibir uma avaliação mais homogênea e consistente.
 
 ![Média ddos numeros de votos](../evidencias/media_votos.png)
 
-#### **Média de popularidade dos filmes de comédia  por Idioma**
+## **Média de popularidade dos filmes de comédia  por Idioma**
+
+Analisando a popularidade dos filmes de comédia por idioma. O idioma inglês (en) novamente lidera, com um índice de 13.32, seguido por japonês (ja) com 13.17 e espanhol (es) com 13.15. Outros idiomas apresentam popularidade bem menor, com destaque para fr (8.99), bn (8.20) e no (6.74). Já idiomas como bs (0.25) e si (0.24) apresentam baixa popularidade, o que pode explicar a quantidade reduzida de votos recebidos por filmes nesses idiomas.
 
 ![Média das notas das avaliações](../evidencias/media-popularidade.png) 
-
-#### **Persistência dos Dados no QuikSight**
-
-![Persistência dos Dados no QS](../evidencias/persistenciaQS.png)
 
 ## 5. Conclusão
 
