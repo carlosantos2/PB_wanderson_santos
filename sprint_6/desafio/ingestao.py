@@ -3,7 +3,7 @@ import pandas as pd
 from datetime import datetime
 
 # Sessão com perfil AWS configurado
-session = boto3.Session(profile_name='225989360512_AdministratorAccess')
+session = boto3.Session(profile_name='xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx')
 s3 = session.client('s3')
 
 # Nome do bucket

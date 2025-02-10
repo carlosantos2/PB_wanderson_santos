@@ -35,7 +35,13 @@ Nesta última etapa do desafio, o objetivo é extrair insights a partir dos dado
   - Construir uma narrativa coerente com os dados disponíveis.
   
 #### Configuração do QuickSight:
-- **Fonte de Dados:** Athena
+- **Criar conta no QuikSight**
+
+![criação da conta ](../evidencias/criacao_conta.png)
+
+- **Fonte de Dados conexão com Athena:**
+![conexão com athena](../evidencias/conexao_athena.png)
+
 - **Tipo de Visualizações:** Gráficos de barras, pizza.
 
 #### **Criação da ase de dados**
